@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @antobeza
 - 🤓 MBA Student
-- 📫 antoniab@stanford.edu
 
 <!---
 antobeza/antobeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
